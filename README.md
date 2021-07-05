@@ -5,7 +5,7 @@ It can be used in the command line.
 # dependencies
 * Python3
 * All librarys in requirements.txt
-    * Can be easily installed with pip by running the followind command: pip install -r requirements.txt
+    * Can be easily installed with pip by running the followind command: ```pip install -r requirements.txt```
 
 
 # usage
